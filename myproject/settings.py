@@ -128,4 +128,6 @@ MAILERS = {
     },
 }
 
+APPEND_SLASH = True
+
 STATICFILES_DIRS = [BASE_DIR / 'static']
